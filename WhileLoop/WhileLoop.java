@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WhileLoop {
 
     public static void sumOfNaturalNumbers() {
-        System.out.println("Enter natural number to get sum: ");
+        System.out.println("Enter natural numbers to get sum: ");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         int i = 1, sum = 0;
