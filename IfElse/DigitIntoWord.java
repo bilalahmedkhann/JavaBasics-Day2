@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class DigitIntoWord {
     public static void main(String[] args) {
-        System.out.println("Enter any number between 0 to 9: ");
+        System.out.println("Enter any number between 0 to 9 only: ");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         if (num < 10) {
