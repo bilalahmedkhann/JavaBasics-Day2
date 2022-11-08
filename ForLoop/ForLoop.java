@@ -28,7 +28,7 @@ public class ForLoop {
         System.out.println(reverse);
     }
 
-    /*public static void palindromeNumber() {
+    public static void palindromeNumber() {
         int reverse = 0;
         int temp;
         int s;
@@ -49,6 +49,6 @@ public class ForLoop {
             System.out.println(temp + " is not a palindrome number");
         }
 
-    }*/
+    }
 
 }

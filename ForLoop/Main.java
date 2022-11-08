@@ -7,6 +7,7 @@ public class Main {
         ForLoop forLoop = new ForLoop();
         ForLoop.sumOfNaturalNumber();
         ForLoop.reverseOfNumber();
+        ForLoop.palindromeNumber();
        /* System.out.println("which program you want to see:\n" +
                 "1: for sum of natural number \n" +
                 "2: for reverse of number \n" +
