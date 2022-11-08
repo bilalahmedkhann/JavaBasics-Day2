@@ -51,7 +51,7 @@ public class SwitchStat {
         if (isVowel) {
             System.out.println("It is a vowel");
         } else {
-            System.out.println("It is Consonant");
+            System.out.println("It is a Consonant");
         }
     }
 }

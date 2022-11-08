@@ -5,6 +5,7 @@ public class main {
         SwitchStat s = new SwitchStat();
         s.VowelConsonant();
 
+
     }
 
 }
