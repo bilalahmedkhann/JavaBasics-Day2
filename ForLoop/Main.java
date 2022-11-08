@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         ForLoop forLoop = new ForLoop();
         ForLoop.sumOfNaturalNumber();
+        ForLoop.reverseOfNumber();
        /* System.out.println("which program you want to see:\n" +
                 "1: for sum of natural number \n" +
                 "2: for reverse of number \n" +

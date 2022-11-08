@@ -14,7 +14,7 @@ public class ForLoop {
         System.out.println(sum);
     }
 
-   /* public static void reverseOfNumber() {
+    public static void reverseOfNumber() {
         int reverse = 0;
         int digit;
         System.out.println("Enter any natural number: ");
@@ -28,7 +28,7 @@ public class ForLoop {
         System.out.println(reverse);
     }
 
-    public static void palindromeNumber() {
+    /*public static void palindromeNumber() {
         int reverse = 0;
         int temp;
         int s;
