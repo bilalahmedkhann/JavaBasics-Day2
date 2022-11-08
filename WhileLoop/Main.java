@@ -10,6 +10,12 @@ public class Main {
 
         WhileLoop.sumOfNaturalNumbers();
 
+        //(2)
+        // Write a Program to reverse the integer number
+        // eg. Input n=231 reverse is 132
+
+        WhileLoop.reverseTheNumber();
+
 
 
 

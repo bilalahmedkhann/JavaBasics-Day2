@@ -15,6 +15,18 @@ public class WhileLoop {
         }
         System.out.println(sum);
     }
+    public static void reverseTheNumber() {
+        System.out.println("Enter any number to get its reverse: ");
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        int reverse = 0;
+        while (num != 0) {
+            int rem = num % 10;
+            reverse = reverse * 10 + rem;
+            num = num / 10;
+        }
+        System.out.println("Reversed number is " + reverse);
+    }
 
 
 
