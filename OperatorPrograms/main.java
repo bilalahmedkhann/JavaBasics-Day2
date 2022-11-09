@@ -21,13 +21,7 @@ public class main {
             isSpringSeason = false;
         System.out.println(isSpringSeason);
 
-        /*if((month>2&&date>20)&& (month<7&&date<20)) {
-            isSpringSeason = true;
-        }
-        else{
-                isSpringSeason = false;
-            }
-            System.out.println(isSpringSeason);*/
+   
     }
 }
 
