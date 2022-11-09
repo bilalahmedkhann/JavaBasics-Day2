@@ -9,7 +9,7 @@ public class Operators {
     String forMaxRes = null;
     String forMinRes = null;
 
-    public void evaluateAndFindMinMax() {
+    public void evaluateAndFindMinMax()  {
         System.out.println("Enter any three numbers: ");
         Scanner sc = new Scanner(System.in);
         a = sc.nextInt();
