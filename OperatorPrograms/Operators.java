@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class Operators {
     static String forMaxRes = null;
     static String forMinRes = null;
+
     public static void main(String[] args) {
         evaluateAndFindMinMax();
 
 
-}
-
+    }
 
 
     public static void evaluateAndFindMinMax() {
